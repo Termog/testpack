@@ -1,0 +1,9 @@
+name = "test"
+author = "me"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1c3ca7c1445290bbf8f79fd5c781a7b0c2140129e555ee70652554637acd95ae"
