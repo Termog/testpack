@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/simple-login.pw.toml"
-hash = "88bdb37465eaaeea366e49cb9cee56a4b7165e7dba43c00f7825b38d2beafcdb"
+file = "mods/easyauth.pw.toml"
+hash = "9c82c38867f8d998706754b8b60e3a3ad43d9c5510aaad44172cfa365c5e68d0"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "ecf0553077fcfde056f734c4adabe2ac8bed5d125199f2c4c946b247c8dfcbaa"
 metafile = true
